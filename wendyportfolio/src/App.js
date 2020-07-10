@@ -17,6 +17,7 @@ function App() {
         <div>
           <Topnav />
           <Route exact path="/" component={Introduction} />
+          <Route exact path="/home" component={Introduction} />
           <Route exact path="/about" component={About} /> 
           <Route exact path="/projects" component={Project} />
           <Route exact path="/contact" component={Contact} />

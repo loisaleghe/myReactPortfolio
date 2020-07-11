@@ -48,9 +48,12 @@ function Contact() {
               </div>
             </div>
             <div className='row'>
+            <a href='mailto:loisaleghe@cmail.carleton.ca'>
               <button className='btn btn-dark textRight'>
-                <a href='myReactPortfolio/#/'>Get In Touch</a>
+                Get In Touch
               </button>
+              </a>
+             
             </div>
           </div>
         </div>

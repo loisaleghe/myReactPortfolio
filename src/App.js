@@ -4,7 +4,7 @@ import "./App.css";
 import Introduction from "./components/pages/introduction";
 import Topnav from "./components/nav/topnav";
 import About from "./components/pages/about";
-import Project from "./components/projects/projects";
+import Project from "./components/pages/projects";
 import Footer from "./components/footer/footer";
 import Contact from "./components/pages/contact";
 

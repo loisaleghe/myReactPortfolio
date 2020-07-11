@@ -3,6 +3,7 @@ import React from "react";
 
 
 
+
 function Contact() {
   return (
     <section className='contact' id='contact'>
@@ -39,7 +40,7 @@ function Contact() {
             </div>
             <div className='row mb-3'>
               <div className='col-12'>
-                <textarea
+              <textarea 
                   className='form-control'
                   name=''
                   placeholder='Your Comment'

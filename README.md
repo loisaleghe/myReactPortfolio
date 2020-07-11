@@ -1,110 +1,68 @@
-# Unit 16 Project 2 Homework: Professional Materials
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
+## Available Scripts
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+In the project directory, you can run:
 
+### `npm start`
 
-## Requirements
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
+### `npm test`
 
-* Updated resume
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-* Updated LinkedIn profile
+### `npm run build`
 
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Grading
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-| Requirement      | Weight |
-|---               |---     |
-| Portoflio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-## Instructions
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Updated Portfolio
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Your updated site should have the following content:
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-* Your name
+## Learn More
 
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-* A link to a PDF of your resume
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-* A list of projects. For each project, make sure you have the following:
+### Code Splitting
 
-  * Project title
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-  * Link to the deployed version
+### Analyzing the Bundle Size
 
-  * Link to the GitHub repository
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-  * Screenshot of the deployed application
+### Making a Progressive Web App
 
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-#### Design
+### Advanced Configuration
 
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-* Mobile-first design
+### Deployment
 
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+### `npm run build` fails to minify
 
-
-### Updated GitHub Profile 
-
-* If you haven't yet, now is the time to update the following in your GitHub profile: 
-
-    * Profile picture
-
-    * Bio
-
-    * Location
-
-    * Email
-
-    * Link to your portfolio
-
-* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-* Pin some repos that you want to highlight
-
-  * Navigate to [GitHub](https://github.com/) and go to your profile.
-
-  * Click "Customize your pins"
-
-  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
-
-* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
-
-
-### Updated Resume 
-
-Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
-
-
-### Updated LinkedIn Profile 
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

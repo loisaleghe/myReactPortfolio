@@ -246,12 +246,32 @@ h2{
   font-weight: bold;
 }
 
-@media(max-width:991px){
+@media(max-width:420px){
   .intro .introContent .block h1{
-      font-size: 50px;
+      font-size: 30px;
   }
+  .intro .introContent .block h3{
+    font-size: 20px;
 }
 
+.intro .introContent .block .introicons{
+  font-size: 20px;
+}
+}
+
+@media(max-width:320px){
+  .intro .introContent .block h1{
+      font-size: 25px;
+  }
+  .intro .introContent .block h3{
+    font-size: 15px;
+}
+
+.intro .introContent .block .introicons{
+  font-size: 15px;
+}
+}
+/*
 @media(max-width: 767px){
   .intro .introContent .block h1{
       font-size: 40px;
@@ -332,4 +352,4 @@ h2{
 
 
   }
-}
+} */

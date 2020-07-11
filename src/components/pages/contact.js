@@ -41,6 +41,7 @@ function Contact() {
             <div className='row mb-3'>
               <div className='col-12'>
               <textarea 
+                  id="bodycontent"
                   className='form-control'
                   name=''
                   placeholder='Your Comment'
@@ -48,7 +49,7 @@ function Contact() {
               </div>
             </div>
             <div className='row'>
-            <a href='mailto:loisaleghe@cmail.carleton.ca'>
+            <a href="mailto:loisaleghe@cmail.carleton.ca ?subject=Feedback!">
               <button className='btn btn-dark textRight'>
                 Get In Touch
               </button>

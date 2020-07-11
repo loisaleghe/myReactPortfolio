@@ -49,7 +49,7 @@ function Contact() {
             </div>
             <div className='row'>
               <button className='btn btn-dark textRight'>
-                <a href='/#'>Get In Touch</a>
+                <a href='myReactPortfolio/#/'>Get In Touch</a>
               </button>
             </div>
           </div>

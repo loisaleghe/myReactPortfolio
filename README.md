@@ -10,7 +10,7 @@ This is my professional portfolio created using React
 
 ## USAGE
 
-To view deployed app please follow this link: http://loisaleghe.github.io/myReactPortfolio
+To view deployed app please follow this link: https://loisaleghe.github.io/deploy-portfolio/#/
 
 ## SCREENSHOTS
 
